@@ -1,3 +1,4 @@
 # Accessibility audit
 
-A short report on the results of your accessibility audit on your website code and design.
+
+[WCAG2Checklist.pdf](https://github.com/jaketharris/WSD2-2022/files/11487404/WCAG2Checklist.pdf)
