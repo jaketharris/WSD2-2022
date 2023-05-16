@@ -1,11 +1,5 @@
-# Design process and high fidelity page mock up
-
-You should add evidence of your group’s design process here. Begin with artefacts created by the whole team, then the high fidelity mockup.
-
-## Group Artefacts
-
-Please add at least one artefact per group member related to the exploration of designs for your website.
-
-## High Fidelity mock-up
-
-Add a screenshot of a single high fidelity mock up of one important page of your site, including all global elements (e.g. navigation and page footer).
+![Photo 10-02-2023, 2 13 59 pm (1)](https://github.com/jaketharris/WSD2-2022/assets/115226922/695614f2-e619-44f8-a743-83563bb14ea4)
+![Photo 10-02-2023, 2 13 59 pm (2)](https://github.com/jaketharris/WSD2-2022/assets/115226922/2a73d81d-896f-452a-85ff-971d7b2b9c64)
+![Photo 10-02-2023, 2 13 59 pm](https://github.com/jaketharris/WSD2-2022/assets/115226922/71827860-f4e7-423f-9fa4-2abc7394485a)
+![Photo 10-02-2023, 2 14 00 pm (1)](https://github.com/jaketharris/WSD2-2022/assets/115226922/84cdeedd-4647-4a0a-aebd-98242f3162a1)
+![Photo 10-02-2023, 2 14 00 pm](https://github.com/jaketharris/WSD2-2022/assets/115226922/41272a45-6358-4259-aa98-b370078b6afc)
