@@ -7,9 +7,9 @@
 ### Team members
 
 - Jacob Harris, [21308557@stu.mmu.ac.uk]
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- Simon Bland, [email address]
+- Zaynah Farhaan, [zaynah.farhaan@stu.mmu.ac.uk]
+- Christine Cheng, [christine.cheng@stu.mmu.ac.uk]
 
 ## Submission points
 
